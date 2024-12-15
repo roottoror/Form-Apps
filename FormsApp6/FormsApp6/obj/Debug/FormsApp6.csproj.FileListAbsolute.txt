@@ -1,0 +1,9 @@
+C:\Users\haydarb\source\repos\FormsApp6\FormsApp6\bin\Debug\FormsApp6.exe.config
+C:\Users\haydarb\source\repos\FormsApp6\FormsApp6\bin\Debug\FormsApp6.exe
+C:\Users\haydarb\source\repos\FormsApp6\FormsApp6\bin\Debug\FormsApp6.pdb
+C:\Users\haydarb\source\repos\FormsApp6\FormsApp6\obj\Debug\FormsApp6.csprojAssemblyReference.cache
+C:\Users\haydarb\source\repos\FormsApp6\FormsApp6\obj\Debug\FormsApp6.Form1.resources
+C:\Users\haydarb\source\repos\FormsApp6\FormsApp6\obj\Debug\FormsApp6.Properties.Resources.resources
+C:\Users\haydarb\source\repos\FormsApp6\FormsApp6\obj\Debug\FormsApp6.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\FormsApp6\FormsApp6\obj\Debug\FormsApp6.exe
+C:\Users\haydarb\source\repos\FormsApp6\FormsApp6\obj\Debug\FormsApp6.pdb

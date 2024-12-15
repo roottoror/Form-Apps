@@ -1,0 +1,9 @@
+C:\Users\haydarb\source\repos\FormsApp5\FormsApp5\bin\Debug\FormsApp5.exe.config
+C:\Users\haydarb\source\repos\FormsApp5\FormsApp5\bin\Debug\FormsApp5.exe
+C:\Users\haydarb\source\repos\FormsApp5\FormsApp5\bin\Debug\FormsApp5.pdb
+C:\Users\haydarb\source\repos\FormsApp5\FormsApp5\obj\Debug\FormsApp5.Form1.resources
+C:\Users\haydarb\source\repos\FormsApp5\FormsApp5\obj\Debug\FormsApp5.Properties.Resources.resources
+C:\Users\haydarb\source\repos\FormsApp5\FormsApp5\obj\Debug\FormsApp5.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\FormsApp5\FormsApp5\obj\Debug\FormsApp5.exe
+C:\Users\haydarb\source\repos\FormsApp5\FormsApp5\obj\Debug\FormsApp5.pdb
+C:\Users\haydarb\source\repos\FormsApp5\FormsApp5\obj\Debug\FormsApp5.csprojAssemblyReference.cache

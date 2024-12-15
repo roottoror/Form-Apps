@@ -1,0 +1,8 @@
+C:\Users\haydarb\source\repos\FormsApp2\FormsApp2\bin\Debug\FormsApp2.exe.config
+C:\Users\haydarb\source\repos\FormsApp2\FormsApp2\bin\Debug\FormsApp2.exe
+C:\Users\haydarb\source\repos\FormsApp2\FormsApp2\bin\Debug\FormsApp2.pdb
+C:\Users\haydarb\source\repos\FormsApp2\FormsApp2\obj\Debug\FormsApp2.Form1.resources
+C:\Users\haydarb\source\repos\FormsApp2\FormsApp2\obj\Debug\FormsApp2.Properties.Resources.resources
+C:\Users\haydarb\source\repos\FormsApp2\FormsApp2\obj\Debug\FormsApp2.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\FormsApp2\FormsApp2\obj\Debug\FormsApp2.exe
+C:\Users\haydarb\source\repos\FormsApp2\FormsApp2\obj\Debug\FormsApp2.pdb

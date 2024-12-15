@@ -1,0 +1,9 @@
+C:\Users\haydarb\source\repos\FormsApp4\FormsApp4\bin\Debug\FormsApp4.exe.config
+C:\Users\haydarb\source\repos\FormsApp4\FormsApp4\bin\Debug\FormsApp4.exe
+C:\Users\haydarb\source\repos\FormsApp4\FormsApp4\bin\Debug\FormsApp4.pdb
+C:\Users\haydarb\source\repos\FormsApp4\FormsApp4\obj\Debug\FormsApp4.csprojAssemblyReference.cache
+C:\Users\haydarb\source\repos\FormsApp4\FormsApp4\obj\Debug\FormsApp4.Form1.resources
+C:\Users\haydarb\source\repos\FormsApp4\FormsApp4\obj\Debug\FormsApp4.Properties.Resources.resources
+C:\Users\haydarb\source\repos\FormsApp4\FormsApp4\obj\Debug\FormsApp4.csproj.GenerateResource.cache
+C:\Users\haydarb\source\repos\FormsApp4\FormsApp4\obj\Debug\FormsApp4.exe
+C:\Users\haydarb\source\repos\FormsApp4\FormsApp4\obj\Debug\FormsApp4.pdb
